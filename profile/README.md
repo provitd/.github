@@ -1,5 +1,5 @@
-## Welcome to Metzger-Chambon lab's github 👋
+## Welcome to PROVitD's github 👋
 
-This group gathers members of the [Metzger-Chambon Lab](https://www.igbmc.fr/en/recherche/teams/pathophysiological-role-of-nuclear-receptor-signalling) at IGBMC, France. 
+This group gathers members working on Pathophysiological Role Of Vitamin D in [Laverny's Group](https://www.igbmc.fr/en/recherche/teams/subgroups/pathophysiological-role-of-vitamin-d-signalling) at [IGBMC](https://www.igbmc.fr/en/igbmc), France. 
 This is the right place to discover more about analysis or tools created by members of our lab!
 
